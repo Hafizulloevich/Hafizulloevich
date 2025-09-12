@@ -26,8 +26,10 @@ Let's Connect and have a Chat!💬
 </p>
 </div>
 
-## 🚀 Some Tools I Have Used and Learned
 <p align="center">
+  <h3>
+  🚀 Some Tools I Have Used and Learned
+  </h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
@@ -35,8 +37,9 @@ Let's Connect and have a Chat!💬
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
-📊 My GitHub Stats
+
 <div align="center">
+  <h3>📊 My GitHub Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Hafizulloevich&show_icons=true&theme=radical" alt="GitHub Stats" />
 <div align="center">
 
