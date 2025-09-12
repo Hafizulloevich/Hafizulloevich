@@ -25,11 +25,11 @@ Let's Connect and have a Chat!💬
 </a>
 </p>
 </div>
-
-<p align="center">
-  <h3>
+  
+  <h3 align="center">
   🚀 Some Tools I Have Used and Learned
-  </h3>
+   </h3>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
