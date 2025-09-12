@@ -26,7 +26,7 @@ Let's Connect and have a Chat!💬
 </p>
 </div>
 
-🚀 Some Tools I Have Used and Learned
+## 🚀 Some Tools I Have Used and Learned
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -40,6 +40,6 @@ Let's Connect and have a Chat!💬
 <img src="https://github-readme-stats.vercel.app/api?username=Hafizulloevich&show_icons=true&theme=radical" alt="GitHub Stats" />
 <div align="center">
 
-Contributions in 2025
+## Contributions in 2025
 <img src="https://raw.githubusercontent.com/Hafizulloevich/Hafizulloevich/output/github-contribution-grid-snake-2025.svg" alt="Snake animation for 2025" />
-</div>s
+</div>
