@@ -41,6 +41,7 @@ Let's Connect and have a Chat!💬
 <div align="center">
   <h3>📊 My GitHub Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Hafizulloevich&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hafizulloevich&layout=compact&langs_count=8&theme=algolia"/>
 <div align="center">
 
 ## Contributions in 2025
