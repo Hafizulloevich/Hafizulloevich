@@ -5,7 +5,7 @@
 </p>
 
 <p>
-I'm Mirzohamidullo Hoshimov, a Junior Data Scientist and a student at Woosong University based in Daejeon, Korea.
+I'm Mirzohamidullo Hoshimov, a student at Woosong University based in Daejeon, Korea.
 <br />
 I'm passionate about Machine Learning, Computer Vision, Natural Language Processing, and Recurrent Neural Networks.
 <br />
